@@ -8,3 +8,5 @@ https://aur.archlinux.org/packages/picom-ftlabs-git
 # polybar 
 https://github.com/polybar/polybar
 
+# showcase
+https://youtu.be/K5jA5p19YTw
