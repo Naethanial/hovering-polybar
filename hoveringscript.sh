@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POLYBAR_NAME="nathan" #put the name of your polybar
-ACTIVATION_ZONE=15  #the ditance in within you want the polybar to activate
+ACTIVATION_ZONE=10  #the ditance in within you want the polybar to activate
 SCREEN_HEIGHT=1440  #your screen height 
 POLYBAR_RUNNING=false #boolean
 WAIT_TIME=1 # time it takes for polybar to close
@@ -25,5 +25,5 @@ while true; do
     fi
   fi
   
-  sleep 0.1  # refresh rate
+  sleep 0.5s  # refresh rate
 done
