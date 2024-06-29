@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#OUDATED SHIT use toggle_polybar_on_hober
 POLYBAR_NAME="nathan" #put the name of your polybar
 ACTIVATION_ZONE=10  #the ditance in within you want the polybar to activate
 SCREEN_HEIGHT=1440  #your screen height 
